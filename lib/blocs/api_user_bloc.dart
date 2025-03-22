@@ -53,3 +53,6 @@ class ApiUserBloc extends Bloc<ApiUserEvent, ApiUserState> {
   }
 
 }
+void raja(){
+  print(" hello guys");
+}
