@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "879633935678",
+    "firebase_url": "https://new-firebase-6d2de-default-rtdb.firebaseio.com",
+    "project_id": "new-firebase-6d2de",
+    "storage_bucket": "new-firebase-6d2de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879633935678:android:c227ee18f8fe105e2d106f",
+        "android_client_info": {
+          "package_name": "com.example.bloc_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJomBSWWWR_XEkWNzaU8i_HkspTLe3xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879633935678:android:7f453ee90f81e5ac2d106f",
+        "android_client_info": {
+          "package_name": "com.example.class_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJomBSWWWR_XEkWNzaU8i_HkspTLe3xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879633935678:android:d6907ba23f2469f92d106f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_getx_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJomBSWWWR_XEkWNzaU8i_HkspTLe3xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879633935678:android:a578521c0a4434312d106f",
+        "android_client_info": {
+          "package_name": "com.example.newfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJomBSWWWR_XEkWNzaU8i_HkspTLe3xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879633935678:android:d1b9d44bb23028d22d106f",
+        "android_client_info": {
+          "package_name": "com.example.newrealtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJomBSWWWR_XEkWNzaU8i_HkspTLe3xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
